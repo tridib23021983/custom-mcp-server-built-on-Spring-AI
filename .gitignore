@@ -1,0 +1,18 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# Gradle
+.build/
+
+# IntelliJ
+*.iml
+.idea/
+
+# VSCode
+.vscode/
